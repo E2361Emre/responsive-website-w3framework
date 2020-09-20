@@ -1,0 +1,56 @@
+.branding{
+    font-size: 17px;
+ }
+ 
+ .showcase{
+    background-image: url("https://picsum.photos/id/875/600/400");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-y: top;
+    height: 600px;
+    padding: 140px 100px;
+    color: #fff;
+ }
+ 
+ 
+ .showcase h1{
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+ }
+ 
+ .showcase hr{
+    width: 100px;
+    margin: auto;  /* centered horizontally */  
+    border-width: 3px;
+    border-color: rgb(4, 189, 189);
+ }
+ 
+ .showcase p{
+     font-size: 16px;
+     padding-bottom: 20px;
+ }
+ 
+ .section{
+    padding: 40px 0;
+ }
+ 
+ .section h2{
+    padding: 0;
+    margin: 0;
+ }
+ 
+ .section .fa{
+    font-size: 50px;
+ }
+ 
+ 
+ .section img{
+     width: 100%;
+ }
+ 
+ .showcase{
+    height: 400px;
+    padding: 60px 0;
+ }
