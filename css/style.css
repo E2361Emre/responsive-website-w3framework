@@ -11,8 +11,7 @@
     height: 600px;
     padding: 140px 100px;
     color: #fff;
- }
- 
+ } 
  
  .showcase h1{
     font-size: 40px;
@@ -54,3 +53,14 @@
     height: 400px;
     padding: 60px 0;
  }
+
+ textarea{
+   border: none ;
+   border-bottom: 1px solid #ccc;
+}
+
+@media screen and (max-width:600px){
+   body{
+       margin-top: 190px;
+   }
+}
